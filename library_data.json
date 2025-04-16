@@ -1,0 +1,34 @@
+{
+    "books": {
+        "B1": {
+            "book_id": "B1",
+            "title": "Python Programming",
+            "author": "John Smith",
+            "is_available": true,
+            "borrower": null,
+            "due_date": null
+        },
+        "B2": {
+            "book_id": "B2",
+            "title": "Data Structures",
+            "author": "Jane Doe",
+            "is_available": true,
+            "borrower": null,
+            "due_date": null
+        }
+    },
+    "members": {
+        "M1": {
+            "member_id": "M1",
+            "name": "Alice Brown",
+            "email": "alice@email.com",
+            "borrowed_books": []
+        },
+        "M2": {
+            "member_id": "M2",
+            "name": "Bob Wilson",
+            "email": "bob@email.com",
+            "borrowed_books": []
+        }
+    }
+}
